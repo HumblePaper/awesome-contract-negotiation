@@ -1,0 +1,10 @@
+# not yet public
+^https://github\.com/HumblePaper/contract-room-ontology$
+# serves 403 to scripted fetches; loads in a real browser (checked 2026-10-29)
+^https://www\.acc\.com/?$
+# badge host resets lychee connections here (local lychee 0.24.2, 2026-10-29) while curl returns 200
+^https://awesome\.re/
+# serve 403 to scripted fetches; each press release or page appears in search results and loads in a real browser (checked 2026-10-29)
+^https://(www\.)?businesswire\.com/news/home/
+^https://technical\.ly/startups/money-moves-blackboiler
+^https://(www\.)?sirion\.ai/?$
