@@ -1,5 +1,13 @@
 # Awesome Contract Negotiation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+<a href="https://humblepaper.co"><img src="https://raw.githubusercontent.com/HumblePaper/.github/main/profile/mark.png" width="56" alt="Humblepaper"></a>
+</div>
+
+[![lint](https://github.com/HumblePaper/awesome-contract-negotiation/actions/workflows/lint.yml/badge.svg)](https://github.com/HumblePaper/awesome-contract-negotiation/actions/workflows/lint.yml) [![last commit](https://img.shields.io/github/last-commit/HumblePaper/awesome-contract-negotiation)](https://github.com/HumblePaper/awesome-contract-negotiation/commits/main) [![contributors](https://img.shields.io/github/contributors/HumblePaper/awesome-contract-negotiation)](https://github.com/HumblePaper/awesome-contract-negotiation/graphs/contributors) [![licence CC0](https://img.shields.io/badge/licence-CC0-lightgrey)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/HumblePaper/awesome-contract-negotiation/pulls)
+
+Sponsored by [Humblepaper](https://humblepaper.co).
+
 > Forms, playbooks, data, tools and communities for people who negotiate commercial contracts.
 
 For in-house counsel, contracts managers, deal counsel, founders and finance leads. Each entry is something a negotiator can use this week. Legal-tech directories and legal NLP reading lists live elsewhere; see Related lists.
