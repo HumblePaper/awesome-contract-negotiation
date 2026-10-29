@@ -94,7 +94,7 @@ Agents that take the counterparty's draft and return the redline, and in some ca
 
 ## Review and redlining copilots
 
-Tools that review and redline with a lawyer in the loop, usually inside Word or a browser, applying a playbook or a precedent to the draft in front of them.
+Review and redlining with a lawyer in the loop, usually inside Word or a browser. These tools apply a playbook or a precedent to the draft in front of them.
 
 - [Avvoka](https://avvoka.com) - Drafting and document automation platform with negotiation and redlining between parties. Its Execute stage covers negotiating and redlining with an audit trail, and earlier stages cover curating precedents, building templates and drafting, including live questionnaire drafting. It is for in-house teams, mid-sized firms and law firms, with matter types such as M&A and share purchase agreements, real estate, and commercial and procurement. Founded by lawyers in 2016. [growth round £14M, 10 Mar 2026](https://tech.eu/2026/03/10/avvoka-secures-ps14m-to-advance-ai-drafting-tools-for-law-firms/); [hiring engineers on HiBob](https://workatavvoka.careers.hibob.com/).
 - [BlackBoiler](https://blackboiler.com) - Applies your playbook and approved language as first-pass tracked changes in Word. It also draws on a team's prior redlines and examples, a lawyer reviews the markup, and Veris is a conversational tool for working with playbooks and clause language in Word. It fits alongside an existing CLM platform and is for in-house legal teams, law firms and contract managers, with a separate page for construction. NDAs, service agreements and subcontract agreements are named. Based in Brambleton, Virginia, and focused on contract redlining since 2019. [seed US$3.2M, Oct 2020](https://technical.ly/startups/money-moves-blackboiler-normshield-aperiomics-sensei-bio.md); [hiring on Workable: no open roles](https://apply.workable.com/blackboiler).
@@ -161,7 +161,7 @@ Platforms that store and manage contracts, where the AI now covers review or neg
 
 ## Acquired, merged and closed
 
-Products and companies that were bought, folded into another product, renamed or shut, retained so that a reader can see where each one went.
+A record of where products went: bought, folded into something else, renamed or shut, each with a linked source.
 
 - [Contract Logix](https://www.artificiallawyer.com/2024/10/23/legalsifter-buys-clm-company-contract-logix) - Acquired by LegalSifter, reported on 23 October 2024.
 - [Contract Wrangler](https://conga.com/node/5516) - Acquired by Conga, announced on 17 August 2021, to be sold as Conga Contract Intelligence.
