@@ -6,3 +6,8 @@
 ^https://(www\.)?businesswire\.com/news/home/
 ^https://technical\.ly/startups/money-moves-blackboiler
 ^https://(www\.)?sirion\.ai/?$
+# reject GitHub Actions runner addresses with 403 (lychee run 2026-10-29); each page loads in a real browser
+^https://aavenir\.com/
+^https://oneflow\.com/
+^https://tech\.eu/
+^https://www\.adamsdrafting\.com/
