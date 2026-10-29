@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> Forms, playbooks, data, tools and communities for people who negotiate commercial contracts.
+> The forms, playbooks, data, tools and communities that are useful to anyone who negotiates commercial contracts for a living.
 
-For in-house counsel, contracts managers, deal counsel, founders and finance leads. Each entry is something a negotiator can use this week. Legal-tech directories and legal NLP reading lists live elsewhere, under Related lists.
+This list is kept for in-house counsel, contracts managers and deal counsel, and for the founders and finance leads who negotiate their own paper. Each entry is something a negotiator can pick up and use in a live deal, ranging from a model form or a position guide to a tool that returns a redline. Directories of legal technology and reading lists on legal language processing are a different thing, and the related lists at the end cover them.
 
 ## Contents
 
@@ -85,7 +85,7 @@ For in-house counsel, contracts managers, deal counsel, founders and finance lea
 
 ## Negotiation agents
 
-Tools that take the counterparty's draft and return redlines or run rounds with little human input.
+Agents that take the counterparty's draft and return the redline, and in some cases run the rounds with the other side, with little human input along the way.
 
 - [Cyberbase](https://www.cyberbase.ai) - Applies a company's approved playbook to incoming contracts and proposes tracked changes in DOCX files for the team to review. It checks the full document, flags sections that differ from the business's position, and also handles security questionnaires in Excel and PDF. It runs single-tenant inside the customer's own Azure or AWS subscription and is used by legal, compliance and security teams on NDAs, data processing addenda and master services agreements. The legal entity is Cyberbase Systems, Inc. [hiring on Workable: no open roles](https://apply.workable.com/cyberbase/).
 - [Flank](https://flank.ai) - Agents that handle redlining, negotiation rounds and review of contracts by email or browser, supervised by legal. They draft, review, negotiate and triage against a customer's templates, terms, playbooks and escalation rules, and lawyers review finished work and high-risk items. Business teams send requests by Outlook email or an intranet portal, and Flank connects to Teams, Slack, CLMs, Jira and Salesforce. It is for enterprise legal teams and law firms and covers NDAs, DPAs, service agreements, statements of work and vendor agreements. [US$10M round, 5 Jun 2025](https://insightpartners.com/ideas/flank-raises-10m-to-scale-autonomous-legal-agents-embedded-invisible-and-built-for-the-enterprise); [careers page: no open roles](https://flank.ai/careers).
@@ -94,7 +94,7 @@ Tools that take the counterparty's draft and return redlines or run rounds with 
 
 ## Review and redlining copilots
 
-Review and redlining with a lawyer in the loop, usually inside Word or a browser.
+Tools that review and redline with a lawyer in the loop, usually inside Word or a browser, applying a playbook or a precedent to the draft in front of them.
 
 - [Avvoka](https://avvoka.com) - Drafting and document automation platform with negotiation and redlining between parties. Its Execute stage covers negotiating and redlining with an audit trail, and earlier stages cover curating precedents, building templates and drafting, including live questionnaire drafting. It is for in-house teams, mid-sized firms and law firms, with matter types such as M&A and share purchase agreements, real estate, and commercial and procurement. Founded by lawyers in 2016. [growth round £14M, 10 Mar 2026](https://tech.eu/2026/03/10/avvoka-secures-ps14m-to-advance-ai-drafting-tools-for-law-firms/); [hiring engineers on HiBob](https://workatavvoka.careers.hibob.com/).
 - [BlackBoiler](https://blackboiler.com) - Applies your playbook and approved language as first-pass tracked changes in Word. It also draws on a team's prior redlines and examples, a lawyer reviews the markup, and Veris is a conversational tool for working with playbooks and clause language in Word. It fits alongside an existing CLM platform and is for in-house legal teams, law firms and contract managers, with a separate page for construction. NDAs, service agreements and subcontract agreements are named. Based in Brambleton, Virginia, and focused on contract redlining since 2019. [seed US$3.2M, Oct 2020](https://technical.ly/startups/money-moves-blackboiler-normshield-aperiomics-sensei-bio.md); [hiring on Workable: no open roles](https://apply.workable.com/blackboiler).
@@ -132,7 +132,7 @@ Review and redlining with a lawyer in the loop, usually inside Word or a browser
 
 ## Contract lifecycle platforms with AI
 
-Platforms that store and manage contracts and whose AI covers review or negotiation.
+Platforms that store and manage contracts, where the AI now covers review or negotiation as well as the repository.
 
 - [Aavenir](https://aavenir.com/contract-review-negotiation) - Contract lifecycle platform built on ServiceNow, covering sourcing requests, authoring, approvals, obligations and renewals. Its Word plug-in supports negotiating with vendor redlines and flags clause deviations from approved libraries. Its AI functions search for terms and clauses, extract key clauses and obligations, and review contracts for missing or deviating clauses. It is for legal, procurement, sales, finance and IT teams. [Series A US$6M, Mar 2022](https://www.thesaasnews.com/news/aavenir-raises-6-million-in-series-a/); [careers page: no open roles](https://aavenir.com/jobs/).
 - [Agiloft](https://www.agiloft.com) - Contract lifecycle platform with AI that reviews, negotiates and onboards contracts, with approval chains that can be set up without code. It covers contracts before and after signature, including obligation tracking and renewal management, and extracts clauses and data points into a searchable store. It signs through DocuSign and Adobe Sign and connects to Salesforce, SAP and Oracle. It is for finance, sales, legal, IT and procurement teams, and is based in Redwood City, California. [KKR majority investment, 30 May 2024](https://businesswire.com/news/home/20240530171221/en/KKR-to-Acquire-Majority-Ownership-in-Agiloft); [hiring on Lever: 4 engineers, 3 product managers, a Senior Director of Engineering, US and Canada](https://jobs.lever.co/agiloft).
@@ -161,7 +161,7 @@ Platforms that store and manage contracts and whose AI covers review or negotiat
 
 ## Acquired, merged and closed
 
-Products and companies in contract negotiation software that were bought, folded into another product, renamed or shut, so a reader knows where they went.
+Products and companies that were bought, folded into another product, renamed or shut, kept here so a reader knows where each one went.
 
 - [Contract Logix](https://www.artificiallawyer.com/2024/10/23/legalsifter-buys-clm-company-contract-logix) - Acquired by LegalSifter, reported on 23 October 2024.
 - [Contract Wrangler](https://conga.com/node/5516) - Acquired by Conga, announced on 17 August 2021, to be sold as Conga Contract Intelligence.
@@ -220,8 +220,8 @@ Products and companies in contract negotiation software that were bought, folded
 
 ## Contributing
 
-One entry per pull request, one line per entry, alphabetical within its section. The link goes to the thing, not to a page about it. See [CONTRIBUTING.md](CONTRIBUTING.md).
+One entry per pull request and one line per entry, in alphabetical order within its section. The link goes to the thing itself rather than to a page about it. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## About
 
-Maintained by Humblepaper, Inc. Everything here is listed because a reader told us it was useful or we used it ourselves. CC0: copy freely.
+Humblepaper, Inc. maintains this list. An entry is here because a reader told us it was useful or because we have used it ourselves. The list is CC0, so copy it freely.
