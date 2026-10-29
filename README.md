@@ -205,6 +205,7 @@ Products and companies in this space that were bought, folded into another produ
 
 - [awesome-in-house-legal](https://github.com/inhouseapac/awesome-in-house-legal) - Open-source projects for in-house legal teams.
 - [awesome-legal](https://github.com/ankane/awesome-legal) - Free legal documents for companies.
+- [awesome-legal-ai-benchmarks](https://github.com/HumblePaper/awesome-legal-ai-benchmarks) - Benchmarks, leaderboards, rubrics and evaluation datasets for AI in legal work.
 - [awesome-legal-data](https://github.com/openlegaldata/awesome-legal-data) - Datasets and other resources for legal text processing.
 - [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) - Legal NLP resources.
 - [awesome-legaltech](https://github.com/Vaquill-AI/awesome-legaltech) - Legal technology resources across every category.
