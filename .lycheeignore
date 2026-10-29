@@ -11,3 +11,5 @@
 ^https://oneflow\.com/
 ^https://tech\.eu/
 ^https://www\.adamsdrafting\.com/
+# times out from GitHub Actions runners (lychee runs 2026-10-29); loads in a real browser
+^https://vcnewsdaily\.com/
