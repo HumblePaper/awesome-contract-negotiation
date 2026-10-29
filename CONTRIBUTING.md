@@ -14,7 +14,7 @@ Thank you for suggesting an entry. These rules apply to every list in this famil
 
 ## What belongs here
 
-An entry belongs when someone who negotiates commercial contracts, whether in-house counsel, a contracts manager, deal counsel, a founder or a finance lead, can pick it up and use it in a live deal. It has to be maintained or still correct, which a form that has not changed in years can be if the law and the market have not moved. The link goes to the thing itself, meaning the form, the dataset, the tool or the community, rather than to a page about it.
+An entry qualifies when someone who negotiates commercial contracts, whether in-house counsel, a contracts manager, deal counsel, a founder or a finance lead, can put it to use in a live matter. It has to be maintained or still correct, which a form that has not changed in years can be if the law and the market have not moved. The link goes to the thing itself, meaning the form, the dataset, the tool or the community, rather than to a page about it.
 
 A few conventions keep the list readable. A company with two products gets two lines, one per product. For a tool, the linked page should say what it does for negotiation, review or redlining. The funding and hiring tails on tool entries are optional, and each must link to a source that states it. We do not carry vendor claims about customers or speed. A product that is acquired, renamed or closed moves to the Acquired, merged and closed section with a linked source, rather than being deleted.
 

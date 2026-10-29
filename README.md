@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> The forms, playbooks, data, tools and communities that are useful to anyone who negotiates commercial contracts for a living.
+> A list of the working materials of commercial contract negotiation: model forms, playbooks, datasets, tools and the communities around them.
 
-This list is kept for in-house counsel, contracts managers and deal counsel, and for the founders and finance leads who negotiate their own paper. Each entry is something a negotiator can pick up and use in a live deal, ranging from a model form or a position guide to a tool that returns a redline. Directories of legal technology and reading lists on legal language processing are a different thing, and the related lists at the end cover them.
+This is a list of the forms, playbooks, datasets, tools and communities used in commercial contract negotiation, maintained for in-house counsel, contracts managers and deal counsel, and for the founders and finance leads who negotiate without a lawyer at hand. An entry qualifies when a negotiator can put it to use in a live matter, and each one has been checked on its own page rather than listed on a vendor's word. Directories of legal technology and reading lists on legal NLP belong elsewhere, and the related lists at the end point to them.
 
 ## Contents
 
@@ -161,7 +161,7 @@ Platforms that store and manage contracts, where the AI now covers review or neg
 
 ## Acquired, merged and closed
 
-Products and companies that were bought, folded into another product, renamed or shut, kept here so a reader knows where each one went.
+Products and companies that were bought, folded into another product, renamed or shut, retained so that a reader can see where each one went.
 
 - [Contract Logix](https://www.artificiallawyer.com/2024/10/23/legalsifter-buys-clm-company-contract-logix) - Acquired by LegalSifter, reported on 23 October 2024.
 - [Contract Wrangler](https://conga.com/node/5516) - Acquired by Conga, announced on 17 August 2021, to be sold as Conga Contract Intelligence.
@@ -220,8 +220,8 @@ Products and companies that were bought, folded into another product, renamed or
 
 ## Contributing
 
-One entry per pull request and one line per entry, in alphabetical order within its section. The link goes to the thing itself rather than to a page about it. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
+One entry per pull request and one line per entry, in alphabetical order within its section. The link goes to the thing itself rather than to a page about it. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
 
 ## About
 
-Humblepaper, Inc. maintains this list. An entry is here because a reader told us it was useful or because we have used it ourselves. The list is CC0, so copy it freely.
+Humblepaper, Inc. maintains this list as a public reference. Entries are admitted on their usefulness to a negotiator and checked on their own pages, never at a vendor's request, and no entry is paid for. The list is released under CC0 and may be copied freely.
